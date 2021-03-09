@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "expo-constants": "~9.2.0",
+    "expo-permissions": "~9.3.0",
+    "react-native-paper": "3.6.0",
+    "expo-barcode-scanner": "~9.0.0"
+  }
+}
